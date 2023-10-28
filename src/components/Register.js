@@ -48,7 +48,7 @@ function Register() {
         <div className={styles.glass}style={{width:"80%"}}>
           
           <div className='title flex flex-col items-center mb-10 text-4xl'>
-            <h4 className='py-0 text-4xl font-bold'>Register!</h4>
+            <h4 className='py-0 text-4xl font-bold'>Cutomer Survey Form!</h4>
             <span className='py-3 text-xl w-2/3 text-center text-gray-500'>
               Happy to join you!.
             </span>
